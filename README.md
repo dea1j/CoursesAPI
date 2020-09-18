@@ -1,2 +1,2 @@
 # CoursesAPI
-A Simple Node server
+A Simple CRUD backend repo
